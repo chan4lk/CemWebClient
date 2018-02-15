@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/chan4lk/CemWebClient#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "serve-static": "^1.13.2"
   }
 }
